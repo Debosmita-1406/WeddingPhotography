@@ -1,0 +1,76 @@
+#cards{
+    margin-top: 100px;
+
+}
+#card-img{
+    height: 622px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+#card-1{
+    border-radius: 5%;
+}
+#card-2{
+    border-radius: 5%;
+}
+#card-3{
+    border-radius: 5%;
+}
+#img-1{
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+#img-2{
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+#card-ls{
+    border-radius: 3%;
+}
+
+#video{
+    margin-top: 60px;
+}
+video{
+    width: 1300px;
+    border-radius: 5%;
+}
+#dp{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 150px;
+}
+/* .nav-link{
+    color: white;
+} */
+/* .nav-link a:hover{
+    color: blue;
+} */
+/* .nav-link:hover .dropdown-menu{
+    display: block;
+} */
+#img-service{
+    border-radius: 5%;
+}
+ul {
+    list-style: none;
+  }
+#section-1{
+    background-image: url(images/bg12.jpg);
+    
+    
+}
+#img{
+    border-radius: 5%;
+}
+#team:hover{
+    box-shadow: 0px 0px 10px rgb(131, 204, 224);
+}
+#working{
+    box-shadow: 0px 0px 10px rgb(131, 204, 224);
+}
+
+.nav-item a:hover{
+    color: #1f08f5;
+}
